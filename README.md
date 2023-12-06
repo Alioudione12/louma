@@ -22,4 +22,7 @@ Modifier mes informations perso  | Ajouter une nouvelle annonce | Deconnexion|
 - [React Native Google Authentification](https://www.npmjs.com/package/@react-native-google-signin/google-signin) - learn more about React Native Google Autheentification.
 - [React Native Config](https://github.com/lugg/react-native-config) learn more about React Native Config.
 - [Google console cloud](https://console.cloud.google.com/) - learn more about google console cloud.
-- [React Navigation](https://reactnavigation.org/) - learn more about google console cloud.
+- [React Navigation](https://reactnavigation.org/) - learn more about react navigation.
+- [React Navigation](https://www.npmjs.com/package/react-native-image-picker) - learn more about react-native-image-picker.
+- [Axios for API](https://github.com/qiangmao/axios) - learn more about Axios.
+- [React Native async storage](https://reactnative.directory/?search=storage) - learn more about React Native async storage.
