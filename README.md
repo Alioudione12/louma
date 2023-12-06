@@ -4,7 +4,7 @@ Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
 <img src="1.png" alt="Logo" width=70% height=70%  >  | <img src="3.png" alt="Logo" width=70% height=70%  > | <img src="2.png" alt="Logo" width=70% height=70%  >
 
-Welcome Page  | Categories | SignIn |
+Welcome Page  | Categories | Search Categories |
 ------------- | ------------- | ------------- 
 <img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  > | <img src="6.png" alt="Logo" width=70% height=70%  >
 
