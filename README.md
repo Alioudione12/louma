@@ -12,9 +12,9 @@ Supprimer - ajouter favorit  | Favoris | Parametre profil et ajouter des article
 ------------- | ------------- | ------------- 
 <img src="12.png" alt="Logo" width=70% height=70%  >  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
-Modifier mes informations perso  | Ajouter une nouvelle annonce | 
-------------- | ------------- |
-<img src="13.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  >
+Modifier mes informations perso  | Ajouter une nouvelle annonce | Deconnexion|
+------------- | ------------- |  ------------- |
+<img src="13.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
 ## Step 2: Start your Application
 
