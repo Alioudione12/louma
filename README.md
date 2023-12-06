@@ -17,7 +17,7 @@ Modifier mes informations perso  | Ajouter une nouvelle annonce | Deconnexion|
 <img src="13.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
 ## Technologies and configuration environnement 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
+- [React Native ](https://reactnative.dev) - learn more about React Native.
 - [React Native Google Signup](https://www.npmjs.com/package/@react-native-google-signin/google-signin) - learn more about React Native Google Authentification.
 - [React Native Config](https://github.com/lugg/react-native-config) learn more about React Native Config.
 - [Google console cloud](https://console.cloud.google.com/) - learn more about google console cloud.
