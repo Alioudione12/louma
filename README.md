@@ -14,7 +14,7 @@ Supprimer - ajouter favorit  | Favoris | Parametre profil et ajouter des article
 
 Modifier mes informations perso  | Ajouter une nouvelle annonce | 
 ------------- | ------------- |
-<img src="10.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  >
+<img src="13.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  >
 
 ## Step 2: Start your Application
 
