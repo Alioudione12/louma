@@ -5,7 +5,7 @@
 |<img src="3.png" alt="Logo" width=50% height=100%  > |<img src="4.png" alt="Logo" width=50% height=50% > |
 
 
-Welcome Page  | SignUp page | SignIn 
+Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
 <img src="1.png" alt="Logo" width=70% height=70%  >  | <img src="3.png" alt="Logo" width=70% height=70%  > | <img src="2.png" alt="Logo" width=70% height=70%  >
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
