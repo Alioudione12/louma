@@ -16,19 +16,6 @@ Modifier mes informations perso  | Favoris |
 ------------- | ------------- |
 <img src="10.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  >
 
-
-
-
-
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
 ## Step 2: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
