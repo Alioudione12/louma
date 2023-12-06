@@ -1,4 +1,4 @@
-# React Native full stack cross platform application ( Ios and Androide )
+# React Native full stack cross platform application ( ios and androide )
 ### Screenshots
 Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
