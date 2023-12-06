@@ -5,9 +5,9 @@
 |<img src="3.png" alt="Logo" width=50% height=100%  > |<img src="4.png" alt="Logo" width=50% height=50% > |
 
 
-First Header  | Second Header | Second Header | First Header  | Second Header | Second Header
+Welcome Page  | SignUp page | SignIn | First Header  | Second Header | Second Header
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  >  | Content Cell  | Content Cell  | Content Cell  | Content Cell
+<img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  >
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
