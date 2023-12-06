@@ -12,7 +12,7 @@ Items details - contact du vendeur - ajouter favorit  | Favoris | Parametre prof
 ------------- | ------------- | ------------- 
 <img src="8.png" alt="Logo" width=70% height=70%  >  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
-modifier mes informations perso  | Favoris | Parametre profil et ajouter des articles |
+Modifier mes informations perso  | Favoris 
 ------------- | ------------- | ------------- 
 <img src="10.png" alt="Logo" width=70% height=70%  >  | <img src="11.png" alt="Logo" width=70% height=70%  >
 
