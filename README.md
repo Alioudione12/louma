@@ -8,9 +8,9 @@ Items Page  | Details article | Search Categories |
 ------------- | ------------- | ------------- 
 <img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="8.png" alt="Logo" width=70% height=70%  > | <img src="6.png" alt="Logo" width=70% height=70%  >
 
-Items details - contact du vendeur - ajouter favorit  | Favoris | Parametre profil et ajouter des articles |
+Supprimer - ajouter favorit  | Favoris | Parametre profil et ajouter des articles |
 ------------- | ------------- | ------------- 
-<img src="8.png" alt="Logo" width=70% height=70%  >  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
+<img src="12.png" alt="Logo" width=70% height=70%  >  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
 Modifier mes informations perso  | Ajouter une nouvelle annonce | 
 ------------- | ------------- |
