@@ -5,7 +5,7 @@ Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
 <img src="1.png" alt="Logo" width=70% height=70%  >  | <img src="3.png" alt="Logo" width=70% height=70%  > | <img src="2.png" alt="Logo" width=70% height=70%  >
 
-Items Page  | Details article | Search Categories |
+Items Page  | Details article - ajouter favoris - contact le vendeur | Search Categories |
 ------------- | ------------- | ------------- 
 <img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="8.png" alt="Logo" width=70% height=70%  > | <img src="6.png" alt="Logo" width=70% height=70%  >
 
