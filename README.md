@@ -19,4 +19,5 @@ Modifier mes informations perso  | Ajouter une nouvelle annonce | Deconnexion|
 
 ## Technologie configuration environnement 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [React Native Google Authentification](https://www.npmjs.com/package/@react-native-google-signin/google-signin) - learn more about React Native.
+- [React Native Google Authentification](https://www.npmjs.com/package/@react-native-google-signin/google-signin) - learn more about React Native Google Autheentification.
+- [React Native Config](https://github.com/lugg/react-native-config) learn more about React Native Config.
