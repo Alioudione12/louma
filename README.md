@@ -7,7 +7,7 @@
 
 Welcome Page  | SignUp page | SignIn | First Header  | Second Header | Second Header
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  >
+<img src="1.png" alt="Logo" width=70% height=70%  >  | <img src="2.png" alt="Logo" width=70% height=70%  >
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
