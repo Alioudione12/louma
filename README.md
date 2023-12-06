@@ -8,6 +8,11 @@ Items Page  | Categories | Search Categories |
 ------------- | ------------- | ------------- 
 <img src="4.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  > | <img src="6.png" alt="Logo" width=70% height=70%  >
 
+Items Page  | Categories | Search Categories |
+------------- | ------------- | ------------- 
+<img src="7.png" alt="Logo" width=70% height=70%  >  | <img src="8.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
+
+
 
 
 ```bash
