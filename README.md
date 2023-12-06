@@ -10,7 +10,7 @@ Items Page  | Details article - ajouter favoris - contact le vendeur | Search Ca
 
 Supprimer - ajouter favorit  | Favoris | Parametre profil et ajouter des articles |
 ------------- | ------------- | ------------- 
-<img src="12.png" alt="Logo" width=70% height=70%  >  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
+<p align="center"><img src="12.png" alt="Logo" width=70% height=70%  ></p>  | <img src="7.png" alt="Logo" width=70% height=70%  > | <img src="9.png" alt="Logo" width=70% height=70%  >
 
 Modifier mes informations perso  | Ajouter une nouvelle annonce | Deconnexion|
 ------------- | ------------- |  ------------- |
