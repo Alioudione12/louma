@@ -6,7 +6,7 @@
 - Use different navigators of React Navigation, such as Stack, Tabs and Drawer navigators
 - Handle Redux integration for global state management and API Calls
 - user authentication works in the apps
-### Screenshots
+### Project Screenshots
 Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
 <img src="1.png" alt="Logo" width=70% height=70%  >  | <img src="3.png" alt="Logo" width=70% height=70%  > | <img src="2.png" alt="Logo" width=70% height=70%  >
