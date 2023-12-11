@@ -1,5 +1,11 @@
 ## React Native full stack cross platform application ( ios and androide )
+- Setup basic React Native tools for the best developer experience
 - Javascript and React Native for mobile app development on Android & iOS
+- using React Hooks & React Context (useState, useEffect, useContext, useSelector, useDispatch, etc.)
+- handle REST APIs integration and find out about open source APIs
+- Use different navigators of React Navigation, such as Stack, Tabs and Drawer navigators
+- Handle Redux integration for global state management and API Calls
+- user authentication works in the apps
 ### Screenshots
 Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
