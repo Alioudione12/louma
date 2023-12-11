@@ -1,4 +1,5 @@
-# React Native full stack cross platform application ( ios and androide )
+## React Native full stack cross platform application ( ios and androide )
+- Javascript and React Native basics for mobile app development on Android & iOS
 ### Screenshots
 Welcome Page  | SignUp page | SignIn |
 ------------- | ------------- | ------------- 
